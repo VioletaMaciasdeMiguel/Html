@@ -1,0 +1,73 @@
+{
+   "dia1": {
+      "nombre": "lunes",
+      "asignatura1": {
+         "horario": "17:00-19:00",
+         "nombre": "PCA"
+      },
+      "asignatura2": {
+         "horario": "19:00-21:00",
+         "nombre": "CDIG"
+      }
+   },
+   "dia2": {
+      "nombre": "martes",
+      "asignatura3": {
+         "horario": "9:00-11:00",
+         "nombre": "EMS"
+      },
+      "asignatura4": {
+         "horario": "11:00-13:00",
+         "nombre": "TDW"
+      },
+      "asignatura5": {
+         "horario": "17:00-19:00",
+         "nombre": "CDIG"
+      },
+      "asignatura6": {
+         "horario": "19:00-21:00",
+         "nombre": "PE"
+      }
+   },
+   "dia3": {
+      "nombre": "miercoles",
+      "asignatura7": {
+         "horario": "11:00-13:00",
+         "nombre": "ADS"
+      },
+      "asignatura8": {
+         "horario": "13:00-15:00",
+         "nombre": "BDA"
+      },
+      "asignatura9": {
+         "horario": "19:00-21:00",
+         "nombre": "PE"
+      }
+   },
+   "dia4": {
+      "nombre": "jueves",
+      "asignatura": {
+         "horario": "11:00-13:00",
+         "nombre": "BDA"
+      },
+      "asignatura10": {
+         "horario": "19:00-21:00",
+         "nombre": "PCA"
+      }
+   },
+   "dia5": {
+      "nombre": "viernes",
+      "asignatura11": {
+         "horario": "9:00-11:00",
+         "nombre": "ADS"
+      },
+      "asignatura12": {
+            "horario": "11:00-13:00",
+            "nombre": "TDW"
+      },
+      "asignatura": {
+            "horario": "13:00-15:00",
+            "nombre": "EMS"
+      }
+   }
+}
