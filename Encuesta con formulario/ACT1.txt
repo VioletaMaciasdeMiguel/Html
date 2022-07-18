@@ -1,0 +1,53 @@
+
+<html>
+<head></head>
+<body>
+<table>
+<FORM ACTION="mailto:violetamdm@alumnoslourdes.es" METHOD="post">
+<tr>
+<td align="right" valign="top"><H4><b>número de pedido</b></H4></td>
+<td><input type="text" size="37" name="NUMERO"> </td>
+<td align="right" valign="top"><b>en el anterior escribe tu numero de pedido</b></td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>seleccion</b></td>
+<td><input type="checkbox" name="pulsera" value="ojos">pulseras de ojos<br><input type="checkbox" name="pulsera" value="hilo">pulseras de hilo<br> </td>
+<td align="right" valign="top"><b>escoje el producto</b></td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>pedido modelo</b></td>
+<td><input type="radio" name="modelo" value="pedido unisex">unisex<br><input type="radio" name="modelo" value="pedido hombre">hombre<br> <input type="radio" name="modelo" value="pedido mujer">mujer<br></td>
+<td align="right" valign="top"><b>escoje el modelo del producto</b></td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>¿cada cuanto tiempo nos visita y cual es su grado de satisfaccion con nuestres productos?</b></td>
+<td>
+    <SELECT NAME="frecuencia">
+    <OPTION SELECTED> es la primera vez
+    <OPTION> todos los dias
+    <OPTION> cada año
+    <OPTION> cada mes
+    </SELECT> </td>
+<td> <SELECT NAME="grado de satisfaccion" SIZE=6> <OPTION>malo
+<OPTION>muy malo
+<OPTION>bueno
+<OPTION>muy bueno
+<OPTION>regular
+<OPTION>catastrofico
+<OPTION>mejorable
+</SELECT></td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>contraseña</b></td>
+<td><input type="password" size="19" name="Contraseña"> </td>
+<td align="right" valign="top"><b>verifica tu codigo de cliente</b></td>
+</tr>
+          <tr>  <td><INPUT TYPE="submit" VALUE="Enviar"></td>
+            <td><INPUT TYPE="reset" VALUE="Borrar"></td>
+<td> adios</td>
+</tr>
+</FORM> 
+</table>
+</body>
+</html>
+
