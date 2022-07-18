@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+	<dia1 nombre="lunes">
+		<asignatura1 horario="17:00-19:00">PCA</asignatura1>
+		<asignatura2 horario="19:00-21:00">CDIG</asignatura2>
+	</dia1>
+	<dia2 nombre="martes">
+		<asignatura1 horario="9:00-11:00">EMS</asignatura1>
+		<asignatura2 horario="11:00-13:00">TDW</asignatura2>
+		<asignatura3 horario="17:00-19:00">CDIG</asignatura3>
+		<asignatura4 horario="19:00-21:00">PE</asignatura4>
+	</dia2>
+	<dia3 nombre="miercoles">
+		<asignatura1 horario="11:00-13:00">ADS</asignatura1>
+		<asignatura2 horario="13:00-15:00">BDA</asignatura2>
+		<asignatura3 horario="19:00-21:00">PE</asignatura3>
+	</dia3>
+	<dia4 nombre="jueves">
+		<asignatura1 horario="11:00-13:00">BDA</asignatura1>
+		<asignatura2 horario="19:00-21:00">PCA</asignatura2>
+	</dia4>
+	<dia5 nombre="viernes">
+		<asignatura1 horario="9:00-11:00">ADS</asignatura1>
+		<asignatura2 horario="11:00-13:00">TDW</asignatura2>
+		<asignatura2 horario="13:00-15:00">EMS</asignatura2>
+	</dia5>
+</horario>
