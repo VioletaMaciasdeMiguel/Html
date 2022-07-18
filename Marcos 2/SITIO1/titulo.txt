@@ -1,0 +1,13 @@
+
+<html>
+<head>
+<title>Marco superior</title>
+</head>
+<body bgcolor="#0066cc">
+<font color="#ffffff">
+<center>
+<h1>mi sitio web</h1>
+</center>
+</font>
+</body>
+</html>

@@ -1,0 +1,13 @@
+
+<html>
+<head>
+<title>Documento a cargar en principal</title>
+</head>
+<body bgcolor="#ffcccc">
+<center>
+<h2>
+Has pulsado el enlace correctamente
+</h2>
+</center>
+</body>
+</html

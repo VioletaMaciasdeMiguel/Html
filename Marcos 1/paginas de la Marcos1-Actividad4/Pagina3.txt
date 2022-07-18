@@ -1,0 +1,10 @@
+<html>
+<title>Pagina3.html
+</title>
+<head>
+</head>
+<body bgcolor="green">
+<marquee></marquee>
+</body>
+</html>
+

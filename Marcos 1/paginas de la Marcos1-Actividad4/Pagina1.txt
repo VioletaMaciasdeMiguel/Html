@@ -1,0 +1,10 @@
+<html>
+<title>
+Pagina1.html</title>
+<head>
+</head>
+<body bgcolor="blue">
+<img src="https://scontent.cdninstagram.com/Stalkture/s640x640/21879258_348416335611581_4878063240199798784_n.jpg"
+</body>
+</html>
+
