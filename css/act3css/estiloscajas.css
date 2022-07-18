@@ -1,0 +1,57 @@
+<html>
+<head>
+</head>
+<body>
+* { 
+	margin: 0; 
+	padding: 0; 
+	text-align: center; 
+	font-size: 1em; 
+    font-family: arial; 
+}
+
+.contenedor { 
+	margin: 0 auto;
+	 width: 100%;  
+	 border: 10px groove yellow; 
+	}
+
+.cabecera { 
+	background-color: purple; 
+}
+
+.menu { 
+	width: 110px ; 
+	margin: 10px; 
+	padding: 8px; 
+	border: 20px solid lightblue; 
+        background-color: yellow; 
+        float: left
+    }
+
+.principal { 
+	background-color: grey;
+	 width: 640px; 
+	 float: left 
+	}
+
+.contenido { 
+	width: 400px; 
+	background-color: orange; 
+	margin: 10px; 
+            padding: 10px ; 
+            float: left 
+        }
+
+.lateral { 
+	width: 160px; 
+	background-color:red; 
+	margin: 10px 10px 10px 0px; 
+           padding: 5px; 
+           border: 8px double black; 
+           float: left; }
+
+.pie { background-color:blue ; clear: both;}
+
+</body>
+</html>

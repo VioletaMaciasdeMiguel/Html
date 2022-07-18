@@ -1,0 +1,46 @@
+PRÁCTICA 4
+
+Sobre el mismo texto de las prácticas anteriores,ahora debes introducir tres o cuatro imágenes con diferentes alineaciones, usando estilo css con las propiedades que de anchura, altura, color borde, estilo, y el float  y clear apropiado pues el texto debe quedar unas líneas por debajo en alguna de las imágenes.
+Guarda, sube a tu blog la práctica. 
+
+Captura también la pantalla y súbela a tu blog.
+
+
+Observa la siguiente página, puede que te sirva  de ejemplo.
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+(esta línea debe colocarse para que nos salgan las tildes y caracteres especiales sin usar &acute..)
+
+
+<ul class="barra">
+  <li><a href="indice.html">Página principal</a>
+  <li><a href="meditaciones.html">Meditaciones</a>
+  <li><a href="ciudad.html">Mi ciudad</a>
+  <li><a href="enlaces.html">Enlaces</a>
+</ul>
+
+
+Código CSS
+.foto1 { padding: 10px; margin: 8px; border: 1px solid black; float: left; width: 240px; }
+
+Código HTML:
+<img class="foto1" src="" alt="imagen 1">
+imagen 2
+
+
+IMAGEN 2
+
+Código CSS
+.foto2 { padding: 8px; margin: 10px; border: 2px solid black; float: right; width: 250px;height:200px }
+
+Código HTML:
+<img class="foto2" src="" alt="imagen 2">
+
+IMAGEN 3
+
+Código CSS
+.foto3 { padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 250px;height:185px }
+
+Código HTML:
+<img class="foto3" src="" alt="imagen 2">
+
+

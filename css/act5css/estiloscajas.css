@@ -1,0 +1,116 @@
+<html>
+<head>
+</head>
+<body>
+* { 
+	margin: 0; 
+	padding: 0; 
+	text-align: center; 
+	font-size: 1em; 
+    font-family: arial; 
+}
+
+.contenedor { 
+	margin: 0 auto;
+	 width: 100%;  
+	 border: 10px groove yellow; 
+	}
+
+.cabecera { 
+	background-color: purple; 
+	color: white;
+}
+
+.menu { 
+	width: 110px ; 
+	margin: 70px; 
+	padding: 8px; 
+	border: 20px solid lightblue; 
+        background-color: yellow; 
+        float: left
+    }
+
+ul.lista {
+list-style-type: circle;
+}
+
+a { 
+font-size:27px;
+display:inline-table;
+text-decoration: line-through;
+margin:20px 20px;
+padding:30px 30px; 
+background-color:red;
+color:orange;
+box-shadow:2px 8px yellow;}
+
+  a:link {
+    color: green; 
+font-size:30px}
+  a:visited {
+    color: blue }
+
+a:hover { text-decoration:bold;
+background:red;
+color:purple;
+box-shadow:15px 4px orange;}
+
+a:active{
+box-shadow:none;
+background-color:green;}
+.principal { 
+	background-color: grey;
+	 width: 640px; 
+	 float: left 
+	}
+
+.contenido { 
+	width: 400px; 
+	background-color: orange; 
+	margin: 10px; 
+            padding: 10px ; 
+            float: left 
+        }
+
+.lateral { 
+	width: 160px; 
+	background-color:red; 
+	margin: 10px 10px 10px 0px; 
+           padding: 5px; 
+           border: 8px double black; 
+           float: left; }
+
+.pie { background-color:blue ; clear: both;}
+.fotoesp { padding: 8px; 
+	margin: 16px; 
+	border: 7px solid white; 
+	float: left; 
+	width: 243px;
+	height:198px }
+
+.fotomev { padding: 20px; 
+	margin: 14px;
+	border: 4px solid grey; 
+	float: right; 
+	width: 200px; }
+
+.fotocuadro { padding: 19px;
+ margin: 13px; 
+ border: 30px solid lightblue; 
+ float: center; 
+ width: 232px;
+ height:169px }
+.fotomola { padding: 5px;
+ margin: 19px;
+  border: 30px solid red;
+   float: right; 
+   width: 240px;
+   height:190px }
+.clear
+{
+clear:both
+}
+
+
+</body>
+</html>

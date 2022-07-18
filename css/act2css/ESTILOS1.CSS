@@ -1,0 +1,87 @@
+
+<html>
+<head>
+</head>
+<body>
+
+* {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;    
+  font-family: Arial, Helvetica;
+}
+
+body {
+    background-color: lightblue;
+    padding-left: 11em
+    color: orange;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+  font-weight: normal;
+  font-family: Arial;
+}
+
+p span {
+    color: white;
+    text-align: center;                                                              
+    font-size:27px                                                           
+    font-style: italic;                                                                                                                                        background-color=#ff0000;          
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+div {
+    color: green;
+    text-align: center;                                                              
+    font-size:19px                                                                                                                                                                                                  background-color=#ff0000;          
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: bold;
+}
+
+p {
+    font-family: verdana;
+    font-size: 1em;           
+    font-weight: bold;
+    color:red;
+text-indent: 20px  
+}
+
+.parrafo { color: blue; 
+	border-width: thin; 
+	border-style: dashed; 
+	border-color: orange;
+	padding: 20%
+	margin: 30%;
+	font-size: 40px
+}
+
+.tipo {
+	color: yellow;
+	border-color: black;
+	border-width: thick;
+	border-style: hidden;
+	padding: 16%;
+	margin: 15%;
+	font-size: 50px
+
+}
+
+.coso {
+	color: pink;
+	border-style: inset;
+	border-width: medium;
+	border-color: purple;
+	padding: 6%
+	margin: 4%;
+	font-size: 20px
+}
+</body>
+</html>
+
+
+
+
+
+
